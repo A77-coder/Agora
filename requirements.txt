@@ -1,0 +1,8 @@
+# Google Gemini API Official SDK
+google-genai>=0.1.0
+
+# Structured Output and Data Validation
+pydantic>=2.0.0
+
+# Web UI Framework
+streamlit>=1.30.0
